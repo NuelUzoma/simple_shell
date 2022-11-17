@@ -1,4 +1,4 @@
-include "shell.h"
+#include "shell.h"
 /**
  * _getenv - gets the path
  * @path_name: a pointer to the struct of data
