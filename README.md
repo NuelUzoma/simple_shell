@@ -58,3 +58,4 @@ Display help help [BUILTIN]
 Display history history
 Authors
 Madubuike Emmanuel Uzoma - Machine learning enthusiast & full stack developer 
+Arinola Olawale Abdullateef - Software Engineer
